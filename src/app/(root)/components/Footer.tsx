@@ -13,15 +13,21 @@ const Footer = () => {
               <h5 className="font-bold text-medium">Contacts:</h5>
               <p>
                 <ContactSpan label="Phone:" />
-                <ContactSpan label="+2349167704504" />
+                <ContactSpan
+                  label="+353899464535
+"
+                />
               </p>
               <p>
                 <ContactSpan label="WhatsApp:" />
-                <ContactSpan label="+2349167704504" />
+                <ContactSpan
+                  label="+353899464535
+"
+                />
               </p>
               <p>
                 <ContactSpan label="Email:" />
-                <ContactSpan label="Amintiti@gmail.com" />
+                <ContactSpan label="alaminmuhammed7545@gmail.com" />
               </p>
             </div>
           </div>
