@@ -27,7 +27,7 @@ const Footer = () => {
               </p>
               <p>
                 <ContactSpan label="Email:" />
-                <ContactSpan label="alaminmuhammed7545@gmail.com" />
+                <ContactSpan label="Aminsworld1262@gmail.com" />
               </p>
             </div>
           </div>
