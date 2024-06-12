@@ -72,14 +72,14 @@ const EmailSection = () => {
           effective websites, apps and platforms to propel competitive advantage
           and revenue growth.`}
         </p>
-        <div className="socials flex gap-2">
+        {/* <div className="socials flex gap-2">
           <Link href={"https://www.linkedin.com/in/Amin-nwoha-2b255a113/"}>
             <FaLinkedinIn className="cursor-pointer  h-10 w-10 m-2 text-primary-500 group-hover/link:text-white" />
           </Link>
           <Link href={"https://github.com/Amintiti/"}>
             <FaGithub className="cursor-pointer  h-10 w-10 m-2 text-primary-500 group-hover/link:text-white" />
           </Link>
-        </div>
+        </div> */}
       </div>
       <div>
         {successMsg && (
